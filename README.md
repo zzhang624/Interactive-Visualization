@@ -1,7 +1,5 @@
 # Interactive-Visualization
 
-a line chart. 
-
 Summarize the data by displaying the count of earthquakes by region for each year and show the sum of earthquakes by year for all states in their respective regions. 
 
 Axes: All axes should automatically adjust based on the data. Do not hard-code any values.
