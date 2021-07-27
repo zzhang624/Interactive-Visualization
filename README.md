@@ -9,6 +9,7 @@ Axes: All axes should automatically adjust based on the data. Do not hard-code a
 The vertical axis will represent the total count of earthquakes for a region. Display these values using a linear scale.
 The horizontal axis will represent the years. Display these values using a time scale.
 
-Interactivity and sub-chart. I create event handlers to detect mouseover and mouseout events over each dot shape, so that when hovering over a dot, a horizontal bar chart representing the earthquake count for each state in a region will be shown below the line chart (for the year of that dot). For example, hovering over the dot for the West region in 2011 will display the bar chart for all states in the Western region and their individual earthquake counts in 2011. 
+## Interactivity and sub-chart. 
+I create event handlers to detect mouseover and mouseout events over each dot shape, so that when hovering over a dot, a horizontal bar chart representing the earthquake count for each state in a region will be shown below the line chart (for the year of that dot). For example, hovering over the dot for the West region in 2011 will display the bar chart for all states in the Western region and their individual earthquake counts in 2011. 
 
 Bar chart representing count of earthquakes details.
