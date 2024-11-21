@@ -1,6 +1,6 @@
 # Interactive-Visualization
 
- https://zzhang624.github.io/Interactive-Visualization/
+## click here => https://zzhang624.github.io/Interactive-Visualization/
 
 Summarize the data by displaying the count of earthquakes by region for each year and show the sum of earthquakes by year for all states in their respective regions. 
 
